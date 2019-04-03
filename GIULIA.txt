@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 dasdasdaloa ihr Schinken !!!!
 heute ist das wetter not so nice ! :D
+=======
+aloa ihr Steckdosenbefruchter !!!!
+bin grad auf dem Klo
+>>>>>>> 8df246ec4ff79167cb2ee35adf307c09307d1b4f
