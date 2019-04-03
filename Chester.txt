@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 dsdlgkdlökhjlghk
+=======
+lgkdlökhjlghk
+>>>>>>> f51e8f0f52b428b323662b01974d9ab5b8d73f04
 jksafhkdfj
